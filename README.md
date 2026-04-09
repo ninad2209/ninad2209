@@ -17,4 +17,4 @@ I’m currently working on scalable full-stack applications (React, Next.js, Dja
 😄 Pronouns: he/him
 
 
-⚡ Fun fact: Coffee person ☕ | Morning riser 🌅 | Athletic & sporty 🏃‍♂️ | Represented India in Taekwondo 🥋<!--
+⚡ Fun fact: Coffee person ☕ | Morning riser 🌅 | Athletic & sporty 🏃‍♂️ | Represented India in Taekwondo 🥋
