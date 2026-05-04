@@ -11,7 +11,7 @@ I’m currently working on scalable full-stack applications (React, Next.js, Dja
 
 💬 Ask me about React, APIs, full-stack development, or project building
 
-📫 How to reach me: ninadp2209@gmail.com | linkedin.com/in/np2209
+📫 How to reach me:https://ninad2209.vercel.app/ | ninadp2209@gmail.com | linkedin.com/in/np2209
 
 
 😄 Pronouns: he/him
